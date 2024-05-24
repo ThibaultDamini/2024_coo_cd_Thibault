@@ -1,4 +1,4 @@
-Tout d'abord, le main est lancé par l'utilisateur. Celui fait appel au constructeur chargeurMagasin() ce qui 
+	Tout d'abord, le main est lancé par l'utilisateur. Celui fait appel au constructeur chargeurMagasin() ce qui 
 fait entrer la classe ChargerMagasin dans le diagramme. Un magasin est ensuite construit grace a un appel a 
 son constructeur, mais celui-ci sera utilisé plus tard. La methode ChargeurCD(fichier) est appelée par ChargeurMagasin
 grace a quoi la classe ChargeurCD est appelée et un CD peut alors lui être appliqué. Un objet de la classe CD est 

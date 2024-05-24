@@ -1,0 +1,58 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<metadata xmlns="http://musicbrainz.org/ns/mmd-2.0#">
+<release-group id="43665899-08af-4e83-a778-001538f6978d" type="Single" type-id="d6038452-8ee0-3f68-affc-2de9a1ede0b9">
+<title>Peter Pan</title>
+<first-release-date>2010</first-release-date>
+<primary-type id="d6038452-8ee0-3f68-affc-2de9a1ede0b9">Single</primary-type>
+<artist-credit>
+<name-credit>
+<artist id="abd74614-27a9-40c5-85e3-0d429f8fb834" type="Person" type-id="b6e035f4-3ce9-331c-97df-83397230b0df">
+<name>Diam’s</name>
+<sort-name>Diam’s</sort-name>
+<alias-list count="3">
+<alias sort-name="Diam S">Diam S</alias>
+<alias sort-name="Diams" type="Search hint" type-id="1937e404-b981-3cb7-8151-4c86ebfc8d8e">Diams</alias>
+<alias sort-name="Georgiades, Mélanie" type="Legal name" type-id="d4dcd0c0-b341-3612-a332-c0ce797b25cf">Mélanie Georgiades</alias>
+</alias-list>
+</artist>
+</name-credit>
+</artist-credit>
+<release-list count="1">
+<release id="369bb132-3638-4cc2-97e8-0b98a503cda2">
+<title>Peter Pan</title>
+<status id="4e304316-386d-3409-af2e-78857eec5cfe">Official</status>
+<quality>normal</quality>
+<text-representation>
+<language>fra</language>
+</text-representation>
+<artist-credit>
+<name-credit>
+<artist id="abd74614-27a9-40c5-85e3-0d429f8fb834" type="Person" type-id="b6e035f4-3ce9-331c-97df-83397230b0df">
+<name>Diam’s</name>
+<sort-name>Diam’s</sort-name>
+<alias-list count="3">
+<alias sort-name="Diam S">Diam S</alias>
+<alias sort-name="Diams" type="Search hint" type-id="1937e404-b981-3cb7-8151-4c86ebfc8d8e">Diams</alias>
+<alias sort-name="Georgiades, Mélanie" type="Legal name" type-id="d4dcd0c0-b341-3612-a332-c0ce797b25cf">Mélanie Georgiades</alias>
+</alias-list>
+</artist>
+</name-credit>
+</artist-credit>
+<date>2010</date>
+<country>FR</country>
+<release-event-list count="1">
+<release-event>
+<date>2010</date>
+<area id="08310658-51eb-3801-80de-5a0739207115">
+<name>France</name>
+<sort-name>France</sort-name>
+<iso-3166-1-code-list>
+<iso-3166-1-code>FR</iso-3166-1-code>
+</iso-3166-1-code-list>
+</area>
+</release-event>
+</release-event-list>
+</release>
+</release-list>
+</release-group>
+</metadata>
