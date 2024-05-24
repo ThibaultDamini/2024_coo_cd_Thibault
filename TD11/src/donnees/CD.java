@@ -24,10 +24,20 @@ public class CD {
 	 */
 	private static final String SEPARATOR = "--------------------------------------\n";
 
+	public String getNomArtiste() {
+		return nomArtiste;
+	}
+
 	/**
 	 * les attributs du CD
 	 */
 	private String nomArtiste;
+
+
+	public String getNomCD() {
+		return nomCD;
+	}
+
 	private String nomCD;
 
 	/**
@@ -95,6 +105,22 @@ public class CD {
 		if (numPiste < 10)
 			resultat = "0" + resultat;
 		return (resultat);
+	}
+
+	public boolean etreAvantAlbum(CD cd){
+		if(nomCD.compareTo(cd.nomCD)<0){
+			return true;
+		}else{
+			return false;
+		}
+	}
+
+	public boolean etreAvantArtiste(CD cd){
+		if(nomArtiste.compareTo(cd.nomArtiste)<0){
+			return true;
+		}else{
+			return false;
+		}
 	}
 
 	// TODO 

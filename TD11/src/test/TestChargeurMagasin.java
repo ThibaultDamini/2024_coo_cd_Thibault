@@ -1,6 +1,7 @@
 package test;
 
 import XML.ChargeurMagasin;
+import donnees.CD;
 import donnees.Magasin;
 import main.MainChargeurMagasin;
 
@@ -35,6 +36,11 @@ public class TestChargeurMagasin {
             System.out.println(e2);
         }
     }
+
+    public void testTri() {
+
+    }
+
 
     public static void main(String[] args) {
         TestChargeurMagasin test = new TestChargeurMagasin();
